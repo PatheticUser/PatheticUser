@@ -1,8 +1,6 @@
 
-👋 **Introduction: PatheticUser's GitHub Profile**
-
 **About Me:**
-- 👤 Name: PatheticUser
+- 👤 PatheticUser
 - 📚 Education: Currently in second semester of software engineering
 
 **Programming Focus:**
