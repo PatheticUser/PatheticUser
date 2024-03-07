@@ -1,4 +1,4 @@
-
+cout<<"Adding two number"<<a+b<<endl;
 **About Me:**
 - 👤 PatheticUser
 - 📚 Education: Currently in second semester of software engineering
