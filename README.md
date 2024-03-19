@@ -1,10 +1,10 @@
 
 **About Me:**
-- 👤 PatheticUser
-- 📚 Education: Currently in second semester of software engineering
+- 👤 Muhammad Rameez
+- 📚 Education: Currently in second semester of Software Engineering
 
 **Programming Focus:**
-- 💻 Languages: Primarily C++
+- 💻 Languages: C++ , Python
 - 🎯 Specialization: Object-oriented programming
 
 **Goals:**
