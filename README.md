@@ -9,11 +9,19 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>   -->
 
-I'm an aspiring software engineering student in 4th semester, passionate about building scalable and efficient solutions. With a strong foundation in C++, Python, Data Structures & Algorithms (DSA), and Machine Learning (ML/AI), I specialize in designing high-performance systems and solving complex problems.
+I'm a passionate 5th Semester Software Engineering student driven by a curiosity to build systems that think, adapt, and solve real-world problems. My journey so far has been about blending software engineering with artificial intelligence — creating solutions that range from full-stack web applications to intelligent automation and deep learning systems. I’ve completed two industry internships:
 
-As a web developer, I work with HTML, CSS, JavaScript, Bootstrap, .NET, and MVC to create seamless web applications. My expertise extends to backend development, where I build robust, optimized, and secure architectures. Beyond web development, I actively explore AI, neural networks, and system optimization to enhance performance and scalability.
+One in AI, where I trained, fine-tuned, and deployed models for intelligent decision-making and prediction.
 
-I am currently refining my DSA skills, diving deeper into machine learning, and exploring operating systems while preparing for top-tier internships. I'm always open to collaborating on challenging projects and innovative ideas.
+Another as a Junior Software Engineer, developing internal tools, integrating APIs, and managing complex UI and backend logic using Retool, PostgreSQL, and modern web stacks.
+
+Beyond internships, I’ve built and deployed multiple projects — from AI-based systems and data-driven apps to developer tools like CodeCrafter, my coding assistant project that fuses LLMs and automation for smarter developer workflows.
+
+I’m proficient in Python, C++, JavaScript, and PyTorch, with solid grounding in DSA, web development, system design, and workflow automation. My current focus is exploring AI agent systems, LLM integrations, and scalable backend architectures — areas where intelligence meets engineering craftsmanship.
+
+I believe real innovation happens when logic meets imagination. My approach to software isn’t just to make something that runs — but to make something that matters. Whether it’s experimenting with a new model, designing a modular system, or collaborating on an open-source tool, I’m constantly learning, optimizing, and pushing boundaries.
+
+If you’re someone who enjoys creating meaningful, intelligent tech — I’m always down to connect, collaborate, and build the next big thing.
 
 ## Languages and Tools
 
@@ -26,8 +34,7 @@ I am currently refining my DSA skills, diving deeper into machine learning, and 
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>   
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="25" /></a>  
 <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="25" /></a>  
