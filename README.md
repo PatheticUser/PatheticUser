@@ -4,7 +4,7 @@
 
 ---
 
-Hi, I'm **Muhammad Rameez**, an aspiring **AI & Machine Learning Engineer 🚀** based in Pakistan.
+Hi, I'm **Muhammad Rameez**, an aspiring **AI & Machine Learning Engineer** based in **Pakistan**.
 
 I'm a **Linux power user** and **terminal dweller**, currently daily-driving **CachyOS** with a heavily customized **Hyprland** setup. My focus is on building intelligent systems and automating everything in between.
 
