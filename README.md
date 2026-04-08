@@ -42,6 +42,6 @@ I believe in **building in public**, **breaking things to understand them**, and
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/PatheticUser/PatheticUser/blob/output/github-contribution-grid-snake.gif"/>
+  <img src="https://raw.githubusercontent.com/PatheticUser/PatheticUser/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
