@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 */12 * * *" # Every 12 hours
   workflow_dispatch:
+  push:
+    branches:
+    - main
 
 jobs:
   build:
@@ -16,15 +19,14 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Setup Firebase CLI
-        run: |
-          curl -sL https://firebase.tools | bash
-
-      - name: Deploy to Firebase Storage
-        run: |
-          firebase use --add ${{ secrets.FIREBASE_PROJECT_ID }}
-          firebase deploy --only storage
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
         env:
-          FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
