@@ -4,14 +4,18 @@
 
 ---
 
-Hi, I'm **Muhammad Rameez**, an aspiring **AI & Machine Learning Engineer** based in **Pakistan**.
+Hi, I'm **Muhammad Rameez**, an **AI Engineer** specializing in **Agentic Workflows** and **LLM Fine-tuning**.
 
-I'm a **Linux power user** and **terminal dweller**, currently daily-driving **CachyOS** with a heavily customized **Hyprland** setup. My focus is on building intelligent systems and automating everything in between.
+Based in **Pakistan**, I'm a **Linux power user** and **terminal dweller**, currently daily-driving **CachyOS** with a heavily customized **Hyprland** setup. My focus is on architecting autonomous systems, optimizing RAG pipelines, and fine-tuning open-source models to push the boundaries of local intelligence.
 
-Outside the code cave, I’m usually tweaking my dotfiles, exploring agentic development platforms, or perfecting my workflow in **Antigravity**.
+Outside the code cave, I’m usually:
+* **Refining Agentic AI:** Building multi-agent systems and exploring autonomous development.
+* **LLM Optimization:** Fine-tuning models (like LLaMA) for specialized, high-performance tasks.
+* **Workflow Engineering:** Perfecting my environment in **Antigravity** and tweaking my dotfiles for peak efficiency.
 
-I believe in **building in public**, **breaking things to understand them**, and leveraging open-source tools to solve real-world problems.
+I believe in **building in public**, **breaking things to understand them**, and leveraging the open-source ecosystem to solve real-world problems.
 
+---
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,flask,postgres,mongodb,arch,docker,git" alt="Tech Stack"/>
